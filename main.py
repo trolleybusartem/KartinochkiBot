@@ -4,7 +4,7 @@ import os
 
 # Переменные бота
 
-bot = Bot(token='6282103425:AAEiPwT6d-i2YmWVVotUxVEfL7knqRw5QEo')
+bot = Bot(token='')
 dp = Dispatcher(bot)
 
 # битбокс котята
